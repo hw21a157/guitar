@@ -13,3 +13,9 @@
 - APEX Legends
 - fate Grand Order
 
+## 好きな食べ物
+
+- マグロ
+- うどん
+- 牛丼
+
